@@ -1,5 +1,7 @@
 # Hackintosh, ASRock B760M Pro RS, Intel Core i5-12400F, 2x 32Gb DDR5 6000Mhz, Radeon RX 570 Series
 
+![Portifolio](https://github.com/user-attachments/assets/18066c5f-c45a-43f1-8791-f4986f7a136e)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.3.2)
